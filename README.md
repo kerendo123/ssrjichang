@@ -1,2 +1,55 @@
-# ssrjichang
+# 高速稳定长期更新的免费V2Ray节点机场推荐，手机电脑都能用的SSR机场节点
 免费科学上网梯子,免费ssr/V2ray/Trojan节点,免费翻墙,免费梯子,真正免费的梯子,真正免费的VPN, v2ray高速节点, ssr高速节点, vmess节点订阅
+
+**为了方便自己的学习、邮件收发以及与海外客户联系，有时我们需要访问国际互联网。为了方便使用，我收集了一些免费的V2Ray节点和[免费的SSR节点](https://github.com/jojo761/ssrtizi/)，并记录下来。这些节点通常长期有效，可以使用到2023、2024年甚至更久。**
+
+这些免费的V2Ray和SSR节点适用于Windows、Android、iOS、MacOS等电脑和手机客户端。
+
+## 一、上外网的安全注意事项
+
+首先，我们需要认识到GFW的存在，不是每个人都能辨别外网上的真假消极信息。
+其次，在强大的防火长城面前，没有真正安全隐蔽的上网工具，无论是Shadowsocks、ShadowsocksR还是V2Ray，即便是先进的技术也难以避免封锁。
+
+## 二、免费V2ray和SSR节点列表
+这些免费资源都是我收集自网络，目前是亲测可用的，但怕过段时间失效，如果遇到节点失效我又没有及时更新的情况，大家可以访问下面这个机场网站，每天都更新[免费的V2ray和SSR节点](https://www.linkedin.com/pulse/ssr%25E7%25A7%2591%25E5%25AD%25A6%25E4%25B8%258A%25E7%25BD%2591%25E5%2592%258Cv2rzy%25E6%259C%25BA%25E5%259C%25BA%25E6%25A2%25AF%25E5%25AD%2590%25E5%25B0%258F%25E7%2599%25BD%25E7%25BF%25BB%25E5%25A2%2599%25E6%258C%2587%25E5%258D%2597%25E5%2585%258D%25E8%25B4%25B9v2rayssr%25E8%258A%2582%25E7%2582%25B9%25E5%2588%2586%25E4%25BA%25AB-%25E5%25A4%25A7%25E5%258D%2583-%25E5%25BC%25A0-b3qwc/)，虽然时效只有三天，但三天后重新去网站复制新的节点信息就可以了。
+
+免费V2ray机场官网地址：[https://xbsj4621.fun/i/art024](https://xbsj4621.fun/i/art024)
+
+之前记录的一些节点可能因为观看视频、下载大文件等原因失效不能使用。
+
+因此，以下是我最新找到的免费V2Ray和SSR节点。为了能够长期使用，请珍惜这些节点并仅用于收发邮件、联系客户、查找资料和浏览网页，不要观看视频或下载大文件。
+
+这些节点大多来自国外学校或其他组织内部使用，如果使用流量异常，连接密码可能会被重置。
+
+ssr://bjA0LmJvb20uc2tpbjoxODAwMDphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOlZXczVNa05ULz9vYmZzcGFyYW09Wkc5M2JteHZZV1F1ZDJsdVpHOTNjM1Z3WkdGMFpTNWpiMjAmcHJvdG9wYXJhbT1NVFk0TkRBek9qUnhaazFoYUEmcmVtYXJrcz1RRk5UVWxSUFQweGZiakEwTG1KdmIyMHVjMnRwYmcmZ3JvdXA9VTFOU1ZFOVBUQzVEVDAwZzVvNm82WUNC
+
+ssr://bmoxLmJvb20uc2tpbjoxMTAwMDphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOlZXczVNa05ULz9vYmZzcGFyYW09Wkc5M2JteHZZV1F1ZDJsdVpHOTNjM1Z3WkdGMFpTNWpiMjAmcHJvdG9wYXJhbT1ORGc0TVRBek9tVlJRVnBLTWcmcmVtYXJrcz1RRk5UVWxSUFQweGZibW94TG1KdmIyMHVjMnRwYmcmZ3JvdXA9VTFOU1ZFOVBUQzVEVDAwZzVvNm82WUNC
+
+vmess://eyJhZGQiOiJodm9vdS0xMDQyLXYyLTEudHlvLWQta2NkLmFwLmNqaGguYmVhdXR5IiwiYWlkIjoiMCIsImhvc3QiOiJzMy5jamhoLmJlYXV0eSIsImlkIjoiZmM1NDEzMDItN2E4NC00OTU3LThlOTMtYjk3NDA5NGNjN2EwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2plNXgzcEJOMXZlejNOUXVkTmtCIiwicG9ydCI6ODg4LCJwcyI6IlNTUlRPT0wuQ09NIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiJuam5heC0xMDQ0LXYyLTEuZnJhLWQtY24yLmpkLmNqaGgubG9sIiwiYWlkIjoiMCIsImhvc3QiOiJjZG4uY2poaC5sb2wiLCJpZCI6ImZjNTQxMzAyLTdhODQtNDk1Ny04ZTkzLWI5NzQwOTRjYzdhMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9qZTV4M3BCTjF2ZXozTlF1ZE5rQiIsInBvcnQiOjg4OCwicHMiOiJTU1JUT09MLkNPTSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiJld2x2bC0xMDM2LXYyLTAuaGtnLWQta2NkLm5kLmNqaGgubW9tIiwiYWlkIjoiMCIsImhvc3QiOiJub2RlLmluZm9ydW4ud29yayIsImlkIjoiZmM1NDEzMDItN2E4NC00OTU3LThlOTMtYjk3NDA5NGNjN2EwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2plNXgzcEJOMXZlejNOUXVkTmtCIiwicG9ydCI6ODg4LCJwcyI6IlNTUlRPT0wuQ09NIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiJ0LmNjY2FvLmN5b3UiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYmI0Mjg3MzQtYmJlMi00N2ViLTlhMzYtNTIyMWY1ZDk0OGU2IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6MTY2MzEsInBzIjoiU1NSVE9PTC5DT00iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+## 三、如何批量导入这些免费高速的V2Ray节点？
+
+复制多个免费节点，然后在手机端或电脑端的V2Ray软件（如V2RayN、V2RayNG等客户端）中，选择从剪贴板导入URL即可。
+
+## 四、如果这些V2Ray节点无法使用怎么办？
+
+**方法1：寻找最新可用的V2Ray节点**
+尽管只是轻度翻墙，但我们仍然需要时常查看一些实时数据和学习资料。因此，当节点失效时，为了不影响学习和工作，可以进入后面这个机场网站，获取最新的免费节点：[https://xbsj4621.fun/i/art024](https://xbsj4621.fun/i/art024)
+
+**方法2：使用免费的SS/SSR节点替代**
+正如之前提到的，V2Ray并不排斥SS/SSR，越先进的工具往往受到更严格的封锁。
+而且V2Ray相对于Shadowsocks出现较晚，用户较少，免费节点资源也更加稀缺。如果上述节点暂时无法连接，请使用[免费的SS/SSR节点](https://github.com/yourkind/V2rayti)。
+
+大多数V2Ray客户端都支持SS或SSR协议，例如安卓手机客户端V2RayNG，可以直接扫描二维码或复制URL来导入免费的SS/SSR节点配置文件。
+
+## 五、是否真的需要购买付费的V2Ray节点服务？
+
+如果只是偶尔上外网查找资料，我不建议购买付费的SS/SSR/V2Ray节点，使用我分享的免费V2Ray节点或免费SS/SSR节点即可应付。
+
+ **如果你对网速、稳定性、延迟等有要求，可以考虑购买付费的V2Ray节点。**
